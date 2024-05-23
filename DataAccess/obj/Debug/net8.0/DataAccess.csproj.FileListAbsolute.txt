@@ -1,0 +1,15 @@
+C:\Users\Olya\source\repos\Bank\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Olya\source\repos\Bank\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olya\source\repos\Bank\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Olya\source\repos\Bank\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\Olya\source\repos\Bank\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Olya\source\repos\Bank\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\Olya\source\repos\Bank\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\Olya\source\repos\Bank\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\Olya\source\repos\Bank\DataAccess\bin\Debug\net8.0\Domain.dll
+C:\Users\Olya\source\repos\Bank\DataAccess\bin\Debug\net8.0\Domain.pdb
+C:\Users\Olya\source\repos\Bank\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+C:\Users\Olya\source\repos\Bank\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\Olya\source\repos\Bank\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\Olya\source\repos\Bank\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\Olya\source\repos\Bank\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

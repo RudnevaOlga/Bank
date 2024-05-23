@@ -1,0 +1,44 @@
+﻿@model string
+@{
+    Layout = "_LayoutLogin";
+}
+
+<div class="text-center"><h4>Menu</h4></div>
+<div asp-validation-summary="All" class="text-danger"></div>
+<form asp-action="Login" method="post">
+    <div class="offset-md-5 col-md-2">
+        <input name="number" class="form-control" @*readonly*@ placeholder="Number Card:" />
+    </div>
+    <div class="offset-md-5 col-md-2">
+        <br>
+        <br>
+        <table class="main">
+            <tr class="display">
+            </tr>
+            <tr class="buttons">
+                <td><input type="button" style="height:100px;width:100px" value="1" OnClick="CardNumb.value += '1'"></td>
+                <td><input type="button" style="height:100px;width:100px" value="2" OnClick="CardNumb.value += '2'"></td>
+                <td><input type="button" style="height:100px;width:100px" value="3" OnClick="CardNumb.value += '3'"></td>
+            </tr>
+            <tr class="buttons">
+                <td><input type="button" style="height:100px;width:100px" value="4" OnClick="CardNumb.value += '4'"></td>
+                <td><input type="button" style="height:100px;width:100px" value="5" OnClick="CardNumb.value += '5'"></td>
+                <td><input type="button" style="height:100px;width:100px" value="6" OnClick="CardNumb.value += '6'"></td>
+            </tr>
+            <tr class="buttons">
+                <td><input type="button" style="height:100px;width:100px" value="7" OnClick="CardNumb.value += '7'"></td>
+                <td><input type="button" style="height:100px;width:100px" value="8" OnClick="CardNumb.value += '8'"></td>
+                <td><input type="button" style="height:100px;width:100px" value="9" OnClick="CardNumb.value += '9'"></td>
+            </tr>
+            <tr class="buttons">
+                <td></td>
+                <td><input type="button" style="height:100px;width:100px" value="0" OnClick="CardNumb.value += '0'"></td>
+                <td>
+            </tr>
+        </table>
+    </div>
+    <div class="offset-md-5 col-md-2">
+        <button type="submit" class="btn btn-primary">Enter</button>
+        <button type="reset" class="btn btn-primary fa-pull-right">Reset</button>
+    </div>
+</form>

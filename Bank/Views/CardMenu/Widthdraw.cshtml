@@ -1,0 +1,17 @@
+﻿@model decimal
+<div class="text-center text-black"><h4>Numb</h4></div>
+<link href="~/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+<link href="~/lib/jquery-validate/jquery.validate.min.js" />
+<div asp-validation-summary="All" class="text-danger"></div>
+<form asp-action="Widthdraw" method="post">
+    <div class="form-group offset-md-5 col-md-2">
+        <div class="text-center">Enter the amount cash</div>
+        <input class="form-control" name="sum" />
+    </div>
+    <div class=" offset-md-5 col-md-2">
+        <button type="submit" class="btn btn-primary">Width</button>
+        <button type="reset" class="btn btn-primary">Reset</button>
+        <a asp-action="Exit" class="btn btn-secondary">Exit</a>
+        <a asp-action="Menu" class="btn btn-secondary">Back</a>
+    </div>
+</form>

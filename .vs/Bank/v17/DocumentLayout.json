@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Olya\\source\\repos\\Bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA45F2-DBA7-44BE-B467-B32A7789096B}|Bank\\Bank.csproj|c:\\users\\olya\\source\\repos\\bank\\bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BA45F2-DBA7-44BE-B467-B32A7789096B}|Bank\\Bank.csproj|solutionrelative:bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA45F2-DBA7-44BE-B467-B32A7789096B}|Bank\\Bank.csproj|c:\\users\\olya\\source\\repos\\bank\\bank\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BA45F2-DBA7-44BE-B467-B32A7789096B}|Bank\\Bank.csproj|solutionrelative:bank\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACDAEAB9-510E-4675-88A5-D1A5A0C93D8E}|Application\\Application.csproj|c:\\users\\olya\\source\\repos\\bank\\application\\services\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACDAEAB9-510E-4675-88A5-D1A5A0C93D8E}|Application\\Application.csproj|solutionrelative:application\\services\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA45F2-DBA7-44BE-B467-B32A7789096B}|Bank\\Bank.csproj|c:\\users\\olya\\source\\repos\\bank\\bank\\controllers\\cardmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BA45F2-DBA7-44BE-B467-B32A7789096B}|Bank\\Bank.csproj|solutionrelative:bank\\controllers\\cardmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA45F2-DBA7-44BE-B467-B32A7789096B}|Bank\\Bank.csproj|c:\\users\\olya\\source\\repos\\bank\\bank\\views\\cardmenu\\balance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BA45F2-DBA7-44BE-B467-B32A7789096B}|Bank\\Bank.csproj|solutionrelative:bank\\views\\cardmenu\\balance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA45F2-DBA7-44BE-B467-B32A7789096B}|Bank\\Bank.csproj|c:\\users\\olya\\source\\repos\\bank\\bank\\views\\cardmenu\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BA45F2-DBA7-44BE-B467-B32A7789096B}|Bank\\Bank.csproj|solutionrelative:bank\\views\\cardmenu\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA45F2-DBA7-44BE-B467-B32A7789096B}|Bank\\Bank.csproj|c:\\users\\olya\\source\\repos\\bank\\bank\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15BA45F2-DBA7-44BE-B467-B32A7789096B}|Bank\\Bank.csproj|solutionrelative:bank\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA45F2-DBA7-44BE-B467-B32A7789096B}|Bank\\Bank.csproj|c:\\users\\olya\\source\\repos\\bank\\bank\\views\\cardmenu\\widthdraw.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BA45F2-DBA7-44BE-B467-B32A7789096B}|Bank\\Bank.csproj|solutionrelative:bank\\views\\cardmenu\\widthdraw.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACDAEAB9-510E-4675-88A5-D1A5A0C93D8E}|Application\\Application.csproj|c:\\users\\olya\\source\\repos\\bank\\application\\services\\operationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACDAEAB9-510E-4675-88A5-D1A5A0C93D8E}|Application\\Application.csproj|solutionrelative:application\\services\\operationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA45F2-DBA7-44BE-B467-B32A7789096B}|Bank\\Bank.csproj|c:\\users\\olya\\source\\repos\\bank\\bank\\views\\card\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BA45F2-DBA7-44BE-B467-B32A7789096B}|Bank\\Bank.csproj|solutionrelative:bank\\views\\card\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BA45F2-DBA7-44BE-B467-B32A7789096B}|Bank\\Bank.csproj|c:\\users\\olya\\source\\repos\\bank\\bank\\views\\card\\password.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BA45F2-DBA7-44BE-B467-B32A7789096B}|Bank\\Bank.csproj|solutionrelative:bank\\views\\card\\password.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OperationService.cs",
+              "DocumentMoniker": "C:\\Users\\Olya\\source\\repos\\Bank\\Application\\Services\\OperationService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\OperationService.cs",
+              "ToolTip": "C:\\Users\\Olya\\source\\repos\\Bank\\Application\\Services\\OperationService.cs",
+              "RelativeToolTip": "Application\\Services\\OperationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:06:15.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Widthdraw.cshtml",
+              "DocumentMoniker": "C:\\Users\\Olya\\source\\repos\\Bank\\Bank\\Views\\CardMenu\\Widthdraw.cshtml",
+              "RelativeDocumentMoniker": "Bank\\Views\\CardMenu\\Widthdraw.cshtml",
+              "ToolTip": "C:\\Users\\Olya\\source\\repos\\Bank\\Bank\\Views\\CardMenu\\Widthdraw.cshtml",
+              "RelativeToolTip": "Bank\\Views\\CardMenu\\Widthdraw.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T19:56:35.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CardMenuController.cs",
+              "DocumentMoniker": "C:\\Users\\Olya\\source\\repos\\Bank\\Bank\\Controllers\\CardMenuController.cs",
+              "RelativeDocumentMoniker": "Bank\\Controllers\\CardMenuController.cs",
+              "ToolTip": "C:\\Users\\Olya\\source\\repos\\Bank\\Bank\\Controllers\\CardMenuController.cs",
+              "RelativeToolTip": "Bank\\Controllers\\CardMenuController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:57:29.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CardService.cs",
+              "DocumentMoniker": "C:\\Users\\Olya\\source\\repos\\Bank\\Application\\Services\\CardService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\CardService.cs",
+              "ToolTip": "C:\\Users\\Olya\\source\\repos\\Bank\\Application\\Services\\CardService.cs",
+              "RelativeToolTip": "Application\\Services\\CardService.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAjwDkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:01:14.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Olya\\source\\repos\\Bank\\Bank\\appsettings.json",
+              "RelativeDocumentMoniker": "Bank\\appsettings.json",
+              "ToolTip": "C:\\Users\\Olya\\source\\repos\\Bank\\Bank\\appsettings.json",
+              "RelativeToolTip": "Bank\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-25T20:33:15.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cshtml",
+              "DocumentMoniker": "C:\\Users\\Olya\\source\\repos\\Bank\\Bank\\Views\\CardMenu\\Menu.cshtml",
+              "RelativeDocumentMoniker": "Bank\\Views\\CardMenu\\Menu.cshtml",
+              "ToolTip": "C:\\Users\\Olya\\source\\repos\\Bank\\Bank\\Views\\CardMenu\\Menu.cshtml",
+              "RelativeToolTip": "Bank\\Views\\CardMenu\\Menu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T19:55:08.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Balance.cshtml",
+              "DocumentMoniker": "C:\\Users\\Olya\\source\\repos\\Bank\\Bank\\Views\\CardMenu\\Balance.cshtml",
+              "RelativeDocumentMoniker": "Bank\\Views\\CardMenu\\Balance.cshtml",
+              "ToolTip": "C:\\Users\\Olya\\source\\repos\\Bank\\Bank\\Views\\CardMenu\\Balance.cshtml",
+              "RelativeToolTip": "Bank\\Views\\CardMenu\\Balance.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T19:55:30.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Olya\\source\\repos\\Bank\\Bank\\Program.cs",
+              "RelativeDocumentMoniker": "Bank\\Program.cs",
+              "ToolTip": "C:\\Users\\Olya\\source\\repos\\Bank\\Bank\\Program.cs",
+              "RelativeToolTip": "Bank\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAjwB8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:21:10.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "C:\\Users\\Olya\\source\\repos\\Bank\\Bank\\Controllers\\CardController.cs",
+              "RelativeDocumentMoniker": "Bank\\Controllers\\CardController.cs",
+              "ToolTip": "C:\\Users\\Olya\\source\\repos\\Bank\\Bank\\Controllers\\CardController.cs",
+              "RelativeToolTip": "Bank\\Controllers\\CardController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:50:17.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Password.cshtml",
+              "DocumentMoniker": "C:\\Users\\Olya\\source\\repos\\Bank\\Bank\\Views\\Card\\Password.cshtml",
+              "RelativeDocumentMoniker": "Bank\\Views\\Card\\Password.cshtml",
+              "ToolTip": "C:\\Users\\Olya\\source\\repos\\Bank\\Bank\\Views\\Card\\Password.cshtml",
+              "RelativeToolTip": "Bank\\Views\\Card\\Password.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T19:50:45.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Olya\\source\\repos\\Bank\\Bank\\Views\\Card\\Login.cshtml",
+              "RelativeDocumentMoniker": "Bank\\Views\\Card\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Olya\\source\\repos\\Bank\\Bank\\Views\\Card\\Login.cshtml",
+              "RelativeToolTip": "Bank\\Views\\Card\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T19:50:46.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

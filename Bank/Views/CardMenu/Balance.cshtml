@@ -1,0 +1,6 @@
+﻿@model Card
+<p><h1>Balance</h1></p>
+<div>You balance: @Model.balance</div>
+<div>Date: @DateTime.Now.Date</div>
+<div>Card Number: @Model.number</div>
+<a asp-action="Menu" class="btn btn-secondary">Go Back</a>
